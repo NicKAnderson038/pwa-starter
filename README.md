@@ -7,13 +7,10 @@ Plain Progressive Web Apps starter kit
 git clone https://github.com/NicKAnderson038/pwa-starter.git
 2nd: cd into this new project (pwa-starter).
 
-//======= ENTER ==========================================
+//ENTER
 yarn
-
 yarn upgrade webpack
-
 yarn upgrade sw-precache-webpack-plugin
-//========================================================
 
 3rd: OPEN Express extention by pressing (ctrl, shift , p).
 4th: SELECT Express: HOST Current Workspace With Random Port Number.
