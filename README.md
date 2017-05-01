@@ -9,7 +9,9 @@ git clone https://github.com/NicKAnderson038/pwa-starter.git
 
 //======= ENTER ==========================================
 yarn
+
 yarn upgrade webpack
+
 yarn upgrade sw-precache-webpack-plugin
 //========================================================
 
