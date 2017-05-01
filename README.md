@@ -7,7 +7,7 @@ Plain Progressive Web Apps starter kit  <br />
 git clone https://github.com/NicKAnderson038/pwa-starter.git  <br />
 2nd: cd into this new project (pwa-starter).  <br />
 
-//ENTER  <br />
+//ENTER in commandline <br />
 yarn  <br />
 yarn upgrade webpack  <br />
 yarn upgrade sw-precache-webpack-plugin  <br />
